@@ -1,5 +1,5 @@
 # Study Session API 🪢
-
+---
 Study Session API is a RESTful Web API built with ASP.NET Core.
 It allows users to manage study sessions by creating, updating, retrieving, and deleting sessions.
 
@@ -12,7 +12,7 @@ The API demonstrates core backend concepts such as:
 
 ---
 ## Technologies 🛠️
-
+---
 - ASP.NET Core Web API
 - C#
 - .NET
@@ -22,7 +22,7 @@ The API demonstrates core backend concepts such as:
 
 ---
 ## Features 🪄
-
+---
 - Create study sessions
 - Retrieve all sessions
 - Update sessions (PUT)
@@ -33,7 +33,7 @@ The API demonstrates core backend concepts such as:
 
 ---
 ## How to Run 🏃‍♂️‍➡️
-
+---
 1. Clone the repository:
 ```
 git clone https://github.com/ahmad-alsrdah/StudySessionAPI.git
@@ -45,7 +45,7 @@ dotnet run
 ```
 --- 
 ## Example PATCH Request 🔑
-
+---
 ```
 [
     {"op":"replace","path","/FocusLevel","value":5}
@@ -53,14 +53,14 @@ dotnet run
 ```
 ---
 ## Future Improvements ⏳
-
+---
 - Add SQL Server database
 - Implement authentication using JWT
 - Add unit tests
 - Improve logging
 ---
 ## Contact 🔎
-
+---
 Feel free to connect with me or reach out if you have any feedback or collaboration ideas.
 - LinkedIn: [Ahmad Al-Srdah](https://www.linkedin.com/in/ahmad-al-srdah-2a4b87325/)
 - GitHub: [ahmad-alsrdah](https://github.com/ahmad-alsrdah)
