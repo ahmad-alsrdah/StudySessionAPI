@@ -30,6 +30,8 @@ The API demonstrates core backend concepts such as:
 - Delete sessions
 - Input validation using ModelState
 - Interactive API documentation with Swagger
+- Structured logging using Serilog
+- Global error handling middleware
 
 ---
 ## How to Run 🏃‍♂️‍➡️
@@ -62,6 +64,7 @@ dotnet run
 ## Contact 🔎
 ---
 Feel free to connect with me or reach out if you have any feedback or collaboration ideas.
-- LinkedIn: [Ahmad Al-Srdah](https://www.linkedin.com/in/ahmad-al-srdah-2a4b87325/)
-- GitHub: [ahmad-alsrdah](https://github.com/ahmad-alsrdah)
-- Email: ahmad2315753@gmail.com
+
+---
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmad-al-srdah-2a4b87325/)
+[![github](https://skillicons.dev/icons?i=github)](https://github.com/ahmad-alsrdah)
