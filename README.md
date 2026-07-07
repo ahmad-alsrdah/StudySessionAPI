@@ -21,7 +21,7 @@ The API demonstrates core backend concepts such as:
 - JSON Patch
 
 ---
-## Features 🪄
+## Features 
 ---
 - Create study sessions
 - Retrieve all sessions
@@ -46,7 +46,7 @@ git clone https://github.com/ahmad-alsrdah/StudySessionAPI.git
 dotnet run 
 ```
 --- 
-## Example PATCH Request 🔑
+## Example PATCH Request 
 ---
 ```
 [
@@ -54,14 +54,14 @@ dotnet run
 ]
 ```
 ---
-## Future Improvements ⏳
+## Future Improvements 
 ---
 - Add SQL Server database
 - Implement authentication using JWT
 - Add unit tests
 - Improve logging
 ---
-## Contact 🔎
+## Contact 
 ---
 Feel free to connect with me or reach out if you have any feedback or collaboration ideas.
 
