@@ -11,7 +11,7 @@ The API demonstrates core backend concepts such as:
 - Swagger API documentation
 
 ---
-## Technologies 🛠️
+## Technologies 
 ---
 - ASP.NET Core Web API
 - C#
