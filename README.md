@@ -66,5 +66,5 @@ dotnet run
 Feel free to connect with me or reach out if you have any feedback or collaboration ideas.
 
 ---
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmad-al-srdah-2a4b87325/)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmad-al-srdah/)
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/ahmad-alsrdah)
